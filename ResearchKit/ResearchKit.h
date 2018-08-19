@@ -65,6 +65,7 @@
 
 #import <ResearchKit/ORKAnswerFormat.h>
 #import <ResearchKit/ORKHealthAnswerFormat.h>
+#import <ResearchKit/ORKChoiceAnswerFormatHelper.h>
 
 #import <ResearchKit/ORKResult.h>
 #import <ResearchKit/ORKActiveTaskResult.h>
